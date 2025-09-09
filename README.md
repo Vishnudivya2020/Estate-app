@@ -16,20 +16,7 @@ Users can browse property listings, view property details, and authenticate with
 
 ---
 
-## 📂 Folder Structure
 
-estate-app/
-│── src/
-│ ├── components/ # Reusable UI components (Navbar, Footer, etc.)
-│ ├── pages/ # Page-level components (Home, Listings, Contact, Login, Signup, PropertyDetails)
-│ ├── services/ # Firebase config & API helpers
-│ ├── App.jsx # App entry with routes
-│ ├── index.css # Global styles
-│ └── main.jsx # React entry point
-│
-│── public/ # Static assets
-│── package.json # Dependencies & scripts
-│── README.md # Project documentation
 
 
 ## 🛠 Tech Stack
